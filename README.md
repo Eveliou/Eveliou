@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=230&color=4E279C&text=Hello%20everyone!%20🕹️&reversal=false&fontColor=fff&fontSize=50&animation=blink&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=4E279C&text=Hello%20everyone!%20🕹️&reversal=false&fontColor=fff&fontSize=50&animation=blink&fontAlignY=40)
 
 # 👋 I'm Evelina  
 
