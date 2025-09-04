@@ -23,7 +23,9 @@ I’m passionate about games, programming, and exploring new ideas. As a gamer a
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Reach Out… Maybe
+
+I mostly stay in my cave, but if you insist, here’s how to get in touch:  
 
 [<img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/5086e926-983f-4093-9e54-6c7097797517" />](https://gr.linkedin.com/in/evangelia-venetia-liouta-8908ab251) 
 [<img width="32" height="32" alt="Email" src="https://github.com/user-attachments/assets/b3043849-b6fe-4e5f-8e1c-778944af3b97" />](mailto:lioutaevelina@gmail.com)
