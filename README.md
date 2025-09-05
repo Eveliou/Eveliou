@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hello,%20I'm%20Evelina.%20🕹️&reversal=false&fontColor=fff&fontSize=50&fontAlign=70&fontAlignY=40)
 
-Welcome to My GitHub profile! 🚀 
+Welcome to my GitHub profile! 🚀  
 
-I’m passionate about games, programming, and exploring new ideas. As a gamer and developer, I love creating projects that challenge me and help me learn, constantly experimenting with new technologies along the way.
+I’m passionate about games, programming, and exploring new ideas. As a gamer and developer, I love creating projects that challenge me and help me learn, constantly experimenting with new technologies along the way.  
+
+Soooo… you wanna scroll? 🤷‍♀️
 
 ---
 
-## ⚡ Skills & Superpowers
+## 💻 Geeky Gear
 
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="HTML5" width="40" height="40"/>
