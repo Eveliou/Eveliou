@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=4E279C&text=Hello%20everyone!%20🕹️&reversal=false&fontColor=fff&fontSize=50&animation=blink&fontAlignY=40)
-
-# 👋 I'm Evelina  
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hello,%20I'm%20Evelina.%20🕹️&reversal=false&fontColor=fff&fontSize=50&fontAlign=70&fontAlignY=40)
 
 Welcome to My GitHub profile! 🚀 
 
